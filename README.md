@@ -27,6 +27,7 @@ _The page can be viewed online on [Github Pages](https://jamisoncozart.github.io
 * HTML
 * CSS
 * Bootstrap
+* Javascript
 * Git
 
 ### License
